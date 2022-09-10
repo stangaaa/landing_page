@@ -1,0 +1,23 @@
+.sector {
+    height: 270px;
+    margin-left: -10px;
+    margin-right: -10px;
+    width: auto;
+}
+
+.first {    
+    background-color: #1F2937;
+}
+
+.third {
+    background-color: #E5E7EB;
+}
+
+.footer {
+    background-color: #1F2937;
+    margin-left: -10px;
+    margin-right: -10px;
+    height: 100px;
+    width: auto;
+}
+
