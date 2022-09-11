@@ -82,8 +82,21 @@ div h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
 
+.quote {
+    margin: 0px;
+    font-size: x-large;
+    margin-bottom: 10px;
+}
+
+.quoter {
+    width: 600px;
+    text-align: end;
+    margin: 0px;
+    font-weight: bolder;
+}
 
 /*fourt sector*/
 .fourth {
