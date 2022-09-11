@@ -97,18 +97,40 @@ div h2 {
 
 .sub {
     background-color: #3882f6;
-    height: 120px;
-    width: 700px;
+    height: 100px;
+    width: 650px;
     align-self: center;
     color: white;
     font-family: Verdana, Tahoma, sans-serif;
-    border-radius: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
 }
 
 .bold {
     font-weight: bolder;
+    margin-bottom: -10px;
+    font-size: small;
 }
 
+div div div {
+    margin-left: 80px;
+    flex: auto;
+}
+
+.sign{
+    font-size: smaller;
+}
+
+button {
+    background-color: #3882f6;
+    border: 1px solid white;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    width: 110px;
+    margin-right: 70px;
+}
 
 /*footer*/
 .footer {
